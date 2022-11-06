@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.fb.me/shamiulalam74S](https://www.fb.me/shamiulalam74S)
 
-- 💬 Ask me about **Python, Frontend Development**
+- 💬 Ask me about **Python, Web Development**
 
 - 📫 How to reach me **1hourprograms@gmail.com**
 
