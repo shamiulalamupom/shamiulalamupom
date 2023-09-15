@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shamiul Alam</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiulalamupom&label=Profile%20views&color=0e75b6&style=flat" alt="shamiulalamupom" /> </p>
 
-- 🌱 I’m currently learning **Flask, REST APIs**
+- 🌱 I’m currently learning **ReactJS, REST APIs**
 
-- 📝 I regularly write articles on [https://www.fb.me/shamiulalam74S](https://www.fb.me/shamiulalam74S)
+- 📝 I occasionally write articles on [https://www.fb.me/shamiulalam74S](https://www.fb.me/shamiulalam74S)
 
 - 💬 Ask me about **Python, Web Development**
 
