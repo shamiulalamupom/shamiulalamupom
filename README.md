@@ -1,38 +1,35 @@
-<h1 align="center">Hi 👋, I'm Shamiul Alam</h1>
-<h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiulalamupom&label=Profile%20views&color=0e75b6&style=flat" alt="shamiulalamupom" /> </p>
+<h1>Hi There, I'm Md Shamiul Alam Upom <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-- 📝 I occasionally write articles on [Facebook](https://www.fb.me/shamiulalam74S)
+I'm a **Backend Engineer** at [Systemica Institut](https://systemica-institut.de/), where I design and deploy scalable APIs to solve real-world challenges. Always open to collaborating on exciting projects!
 
-- 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/shamiulalamupom/)
+## Skill Set :muscle:
 
-- 💬 Ask me about **Software Engineering**
+These are some of the major technologies that I use or have worked on in the past:
 
-- 📫 How to reach me **mdshamiulalamupom@gmail.com**
+**Programming Languages**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://fb.com/shamiul alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamiul alam" height="30" width="40" /></a>
-  <a href="https://instagram.com/shamiulalamupom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shamiulalamupom" height="30" width="40" /></a>
-</p>
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|
+|--|--|--|
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-</p>
+**Libraries and Frameworks**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamiulalamupom&show_icons=true&locale=en&layout=compact" alt="shamiulalamupom" /></p>
+<img title="NodeJS" alt="NodeJS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png">|<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
+|--|--|--|
+<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="MikrotikOS" alt="MikrotikOS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mikrotik/mikrotik.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamiulalamupom&show_icons=true&locale=en" alt="shamiulalamupom" /></p>
+**Databases**
+
+<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <br>
+|--|--|--|
+
+## Some of my stats :bar_chart:
+
+<img src="https://github-readme-stats.vercel.app/api?username=shamiulalamupom&show_icons=true&theme=radical&include_all_commits=true">|
+|--|
+<br>
+
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/shamiulalamupom/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|
+|--|
