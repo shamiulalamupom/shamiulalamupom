@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamiul Alam</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamiulalamupom&label=Profile%20views&color=0e75b6&style=flat" alt="shamiulalamupom" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/shamiulalamupom/)
 
-- 💬 Ask me about **Python, Backend Engineering**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **mdshamiulalamupom@gmail.com**
 
