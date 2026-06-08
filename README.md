@@ -23,12 +23,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="SQLite" alt="SQLite" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"> <br>
 |--|--|--|
 
-## Some of my stats :bar_chart:
-
-<img src="https://github-readme-stats.vercel.app/api?username=shamiulalamupom&show_icons=true&theme=radical&include_all_commits=true">|
-|--|
-<br>
-
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/shamiulalamupom/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|
